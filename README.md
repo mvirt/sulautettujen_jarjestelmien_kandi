@@ -1,2 +1,2 @@
 # sulautettujen_jarjestelmien_kandi
-Sulautettujen järjestelmien projektikurssin kandidaatin työ
+Sulautettujen järjestelmien projektikurssin kandidaatin työ.
